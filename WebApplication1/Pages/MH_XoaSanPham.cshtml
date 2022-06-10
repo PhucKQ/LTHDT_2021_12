@@ -1,0 +1,26 @@
+﻿@page
+@model Demo_PPLTHDT_2021_12_Web.Pages.MH_XoaSanPhamModel
+@{
+}
+
+@if (Model.sanPham != null)
+{
+    <div>Ban co muon xoa @Model.sanPham.TenSanPham</div>
+    <table class="table">
+        <tr>
+            <td>Mã sản phẩm</td>
+            <td>Tên sản phẩm</td>
+            <td>Giá sản phẩm</td>
+        </tr>
+        <tr>
+            <td>@Model.sanPham.TenSanPham</td>
+            <td>@Model.sanPham.MaSanPham</td>
+            <td>@Model.sanPham.Gia</td>
+        </tr>
+    </table>
+
+    <form method="post">
+        <button type="submit">Xác nhận</button>
+    </form>
+}
+@Model.Chuoi

@@ -1,0 +1,12 @@
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Entities\bin\Debug\net5.0\Entities.dll
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Entities\bin\Debug\net5.0\Entities.pdb
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Entities\obj\Debug\net5.0\Entities.dll
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Entities\obj\Debug\net5.0\Entities.pdb

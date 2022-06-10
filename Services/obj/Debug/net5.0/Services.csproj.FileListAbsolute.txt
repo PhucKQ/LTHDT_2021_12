@@ -1,0 +1,17 @@
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Services\bin\Debug\net5.0\Services.deps.json
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Services\bin\Debug\net5.0\Services.dll
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Services\bin\Debug\net5.0\ref\Services.dll
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Services\bin\Debug\net5.0\Services.pdb
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Services\bin\Debug\net5.0\DAL.dll
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Services\bin\Debug\net5.0\Entities.dll
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Services\bin\Debug\net5.0\DAL.pdb
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Services\bin\Debug\net5.0\Entities.pdb
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Services\obj\Debug\net5.0\Services.csproj.AssemblyReference.cache
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Services\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Services\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Services\obj\Debug\net5.0\Services.AssemblyInfo.cs
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Services\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Services\obj\Debug\net5.0\Services.csproj.CopyComplete
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Services\obj\Debug\net5.0\Services.dll
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Services\obj\Debug\net5.0\ref\Services.dll
+C:\CODE\PPLTHDT_2021_12\Demo_PPLTHDT_2021_12\Services\obj\Debug\net5.0\Services.pdb

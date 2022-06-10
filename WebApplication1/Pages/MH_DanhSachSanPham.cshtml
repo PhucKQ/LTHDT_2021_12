@@ -1,0 +1,40 @@
+﻿@page
+@model Demo_PPLTHDT_2021_12_Web.Pages.MH_DanhSachSanPhamModel
+@using Entities;
+@{
+}
+
+<a href="/MH_LuuSanPham">Them san pham moi</a>
+<div>
+    <form method="post">
+        <label>Nhap tu khoa:</label>
+        <input type="text" name="TuKhoa" value=""/>
+        <button type="submit">Tìm kiếm</button>
+    </form>
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Mã sản phẩm</th>
+            <th>Tên sản phẩm</th>
+            <th>Giá sản phẩm</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (SanPham sp in Model.dsSP)
+        {
+            <tr>
+                <td>@sp.MaSanPham</td>
+                <td>@sp.TenSanPham</td>
+                <td>@sp.Gia</td>
+                <td>
+                    <a href="/MH_SuaSanPham?id=@sp.MaSanPham">Sửa</a>
+                    |
+                    <a href="/MH_XoaSanPham?id=@sp.MaSanPham">Xóa</a>
+                </td>
+            </tr>
+       }
+    </tbody>
+</table>
